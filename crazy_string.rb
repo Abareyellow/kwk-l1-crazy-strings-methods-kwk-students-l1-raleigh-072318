@@ -1,5 +1,5 @@
 puts "Hello".reversed.upcase
-puts "Friends"
+puts "Friends".swapcased
 
 def crazy_strings("Hello","Friends")
   puts "Hello".reversed.upcase
