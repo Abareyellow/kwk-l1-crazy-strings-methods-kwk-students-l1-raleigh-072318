@@ -1,5 +1,6 @@
-# write your method here
+puts "Hello"
 
 def crazy_strings("Hello","Friends")
-  puts
+  puts "Hello".reversed.upcase
+  puts "Friends"
 end
